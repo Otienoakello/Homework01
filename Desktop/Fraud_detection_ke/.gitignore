@@ -1,0 +1,24 @@
+.VirtualBox/
+.android/
+.bash_history
+.gitconfig
+.vscode/
+Contacts/
+Documents
+Downloads
+Favorites/
+Downloads/
+IntelGraphicsProfiles/
+NTUSER.DAT{ac7fc908-1bc5-11f0-ae6c-dc21482f4ac1}.TM.blf
+NTUSER.DAT{ac7fc908-1bc5-11f0-ae6c-dc21482f4ac1}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+python
+where
